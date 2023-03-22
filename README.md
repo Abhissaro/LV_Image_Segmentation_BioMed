@@ -1,5 +1,5 @@
-# LV-Ejection-Fraction-Assessment
-"Efficient and Accurate Automated LV Ejection Fraction Assessment"
+# LV-Image Segmentation and Ejection-Fraction-Assessment
+"Efficient and Accurate Automated LV Image Segmentation and Ejection Fraction Assessment"
 
 
 # 🧭 Problem Statement:
